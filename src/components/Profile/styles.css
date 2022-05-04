@@ -1,0 +1,33 @@
+.imagem img{
+    border-radius: 50%;
+    width: 110px;
+}
+
+.imagem{
+    display: flex;
+    align-items: center;
+}
+
+.imagem h3{
+    margin-left: 2vh;
+    margin-right: 2vh;
+    font-weight: normal;
+}
+.container{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.info{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.othersinfo{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4vh;
+}
+

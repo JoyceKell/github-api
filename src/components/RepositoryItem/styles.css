@@ -1,0 +1,21 @@
+.lista{
+    padding: 2vh;
+    list-style-type: none;
+}
+
+.lista a{
+    text-decoration: none;
+    padding: 1vh;
+    border-radius: 6px;
+    color: black;
+}
+
+.lista a:hover{
+    color: white;
+    background-color: black;
+}
+
+.container{
+    display: block;
+    height: auto;
+}
